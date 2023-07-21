@@ -1,1 +1,1 @@
-HHEYYYYThis readme is for the API BROS AND CHICKS
+HEY! This readme is for the API BROS AND CHICKS
